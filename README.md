@@ -1,2 +1,2 @@
 # asessment-vimigo
-Student registration
+Student registry
